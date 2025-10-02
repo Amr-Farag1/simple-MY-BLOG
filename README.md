@@ -50,5 +50,4 @@ arduino
 Copy code
 http://127.0.0.1:8000
 
-- **All Posts Page**  
-  ![All Posts](all-posts.png/Screenshot 2025-10-02 061459.png)
+
